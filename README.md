@@ -1,1 +1,1 @@
-# sql-zoo
+# sql-test
